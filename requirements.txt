@@ -1,0 +1,16 @@
+pyTelegramBotAPI
+python-dotenv
+python-telegram-bot
+aiogram>=3.0.0,<4.0.0
+aiosqlite
+colorlog
+flask
+werkzeug
+FastAPI
+Uvicorn
+pydantic
+asyncpg
+sqlalchemy
+psycopg2-binary
+sqlalchemy[asyncio]
+websockets
